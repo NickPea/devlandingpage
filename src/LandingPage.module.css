@@ -1,0 +1,22 @@
+.bgImage3 {
+  background-image: url(./Assets/code1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.bgImage2 {
+  background-image: url(./Assets/code3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.bgImage1 {
+  background: url(./Assets/code2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.stretchMe {
+  height: 100%;
+}
