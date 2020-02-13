@@ -7,6 +7,6 @@ export default function Content1() {
 
 const bgImage = {
   height: "100%",
-  background: `url(${BgSVG}) no-repeat -1200px -100px`,
+  background: `url(${BgSVG}) no-repeat -1250px -50px`,
   backgroundSize: "2500px"
 };
