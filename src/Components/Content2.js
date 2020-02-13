@@ -1,5 +1,6 @@
 import React from "react";
 import BgSVG from "../Assets/bg.svg";
+import { Parallax, ParallaxLayer } from "react-spring/renderprops-addons";
 
 export default function Content1() {
   return <div style={bgImage}></div>;
