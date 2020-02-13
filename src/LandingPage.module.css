@@ -19,4 +19,9 @@
 
 .stretchMe {
   height: 100%;
+  overflow: hidden;
+}
+
+.bgContent1 {
+  position: absolute;
 }
